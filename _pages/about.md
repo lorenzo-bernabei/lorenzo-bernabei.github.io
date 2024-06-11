@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ciao, I am Lorenzo"
+title: "Ciao, I am Lorenzo!"
 author_profile: true
 redirect_from: 
   - /about/
