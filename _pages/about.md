@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Ciao, I am Lorenzo!
-======
 
 I am a PhD student in Sociology at the University of Trento, Italy.
 
