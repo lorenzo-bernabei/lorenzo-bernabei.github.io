@@ -18,5 +18,5 @@ In my past I studied Economics at the University of Bologna (BA) and Sociology a
 
 News
 =====
-- <em> 06/2024: I will be presenting my work (joint with Paolo Barbieri and Giorgio Cutuli) on advanced digitial technologies and occupational structures in Barcelona at the ECSR Conference </em>
-- <em> 06/2024: my personal site is online!</em>
+- <em> 06/2024: I will be presenting my work (joint with Paolo Barbieri and Giorgio Cutuli) on advanced digitial technologies and occupational structures in Barcelona at the ECSR Conference. </em>
+- <em> 06/2024: my personal page is online!</em>
