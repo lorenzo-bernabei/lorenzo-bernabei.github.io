@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+Ciao, I am Lorenzo!
+======
+
 I am a PhD student in Sociology at the University of Trento, Italy.
 
 My thesis delves into the macro/meso (occupational structures and occupations) and individual consequences of technological change. I mainly adopt a comparative framework, which I leverage to understand how technology-driven labour market outcomes might be also conditional on specific institutions. To conduct the empirical analyses I use job advertisement data, administrative data as well as large-scale labour market surveys. I mainly work with STATA, but I have also familiarity with some R packages.
