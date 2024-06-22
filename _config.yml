@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Lorenzo Bernabei [site in construction]"
+title                    : "Lorenzo Bernabei"
 title_separator          : "-"
 name                     : &name "Lorenzo Bernabei"
 description              : &description "personal description"
