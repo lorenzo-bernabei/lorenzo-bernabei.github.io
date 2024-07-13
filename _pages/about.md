@@ -14,7 +14,7 @@ My thesis delves into the macro/meso (occupational structures and occupations) a
 
 In general, I am interested in how technological change affects the stratification of labour market rewards as well as the nature of work and the division of labour in contemporary societies. If you are too, get in touch!
 
-In my past I studied Economics at the University of Bologna (BA) and Sociology at the University of Trento (MA). During MA I also served as Research Assistant as well as worked as an external researcher/consultant for one of the major Union Confederations in Italy.
+In my past I studied Economics at the University of Bologna (BA) and Sociology at the University of Trento (MA). During MA I also served as Research Assistant as well as worked in Trento as an external researcher/consultant for one of the major Union Confederations in Italy.
 
 News
 =====
