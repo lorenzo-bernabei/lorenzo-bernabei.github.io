@@ -18,6 +18,6 @@ In my past I studied Economics at the University of Bologna (BA) and Sociology a
 
 News
 =====
-- <em> 07/2024: I will be staying in Nuremberg (9/07-19/07) as a guest researcher at the IAB-FDZ. </em>
+- <em> 07/2024: I will be at the IAB-FDZ (9/07-19/07) as a guest visiting researcher. </em>
 - <em> 06/2024: I will be presenting my work (joint with Paolo Barbieri and Giorgio Cutuli) on advanced digitial technologies and occupational structures in Barcelona at the ECSR Conference. </em>
 - <em> 06/2024: my personal page is online!</em>
